@@ -16,13 +16,17 @@
  <img width="271" alt="image" src="https://github.com/ElenAndreyuk/hw1web/assets/109822164/591da0aa-bfd3-408a-9dc0-32d0e3641b9b">
 
 2) Хедер:
-  <img width="960" alt="image" src="https://github.com/ElenAndreyuk/hw1web/assets/109822164/277353ac-6e5b-45cc-99d5-e79b05d4e353">
+<img width="782" alt="image" src="https://github.com/ElenAndreyuk/hw1web/assets/109822164/2cdca02a-0568-4f86-97fa-8f368722d8fb">
+
 
 Контент: 
-<img width="898" alt="image" src="https://github.com/ElenAndreyuk/hw1web/assets/109822164/2af89dfd-4104-4044-92ea-7e0fad48165e">
+<img width="762" alt="image" src="https://github.com/ElenAndreyuk/hw1web/assets/109822164/e38a1c12-5939-4412-9f24-9f404c91890a">
+
 
 Футер: 
-<img width="886" alt="image" src="https://github.com/ElenAndreyuk/hw1web/assets/109822164/a01ee73f-b943-4347-83d6-6bae1afa9a94">
+
+<img width="774" alt="image" src="https://github.com/ElenAndreyuk/hw1web/assets/109822164/7e3af658-bf47-4f4f-b6f8-c0427ff525e6">
+
 
 3) Было:
 <img width="454" alt="image" src="https://github.com/ElenAndreyuk/hw1web/assets/109822164/00a76348-6903-407d-b56b-68c627fdd31b">
